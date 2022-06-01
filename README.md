@@ -5,8 +5,8 @@
 -->
 
 - 🔭 I’m currently working on ... My new portfolio website | Youtube
-- 🌱 I’m currently learning ... Python | Django
+- 🌱 I’m currently learning ... Three.js
 - 👯 I’m looking to collaborate on ... Youtube
-- 🤔 I’m looking for help with ... AWS
+- 🤔 I’m looking for help with ... Three.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [hi@amirr.net](hi@amirr.net)
