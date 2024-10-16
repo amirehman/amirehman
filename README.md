@@ -5,6 +5,5 @@
 -->
 
 - 🔭 I’m currently working on ... My new portfolio website | Youtube
-- 🌱 I’m currently learning ... Three.js
-- 👯 I’m looking to collaborate on ... Youtube
+- 🌱 I’m currently learning ... .NET, GO, Angular
 - 📫 How to reach me: ... [hi@amirr.net](hi@amirr.net)
