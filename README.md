@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm **Amir Rehman**, a passionate **Full Stack Developer** with over a decade of experience in building scalable, user-friendly web applications. Currently based in Dubai, I specialize in modern frameworks and technologies, including **Vue.js**, **Nuxt.js**, **React**, **Next.js**, and back-end solutions like **Laravel**, **Drupal**, and **WordPress**.
+I'm Amir Rehman, a passionate Full Stack Developer with over a decade of experience crafting scalable, user-centric web applications. Based in the vibrant tech hub of Dubai, I specialize in cutting-edge frameworks and technologies including Vue.js, Nuxt.js, React, Next.js, and robust back-end solutions with Laravel, Drupal, and WordPress.
 
-- 🔭 **Current Project:** Revamping my portfolio and launching a YouTube channel to share coding tutorials and insights.
-- 🌱 **Learning Journey:** Exploring **.NET**, **GO**, and **Angular** to broaden my technical expertise.
-- 📫 **Let's Connect:** Feel free to reach out via email at [hi@amirr.net](mailto:hi@amirr.net).
+- 🚀 Current Focus: Revamping my portfolio with modern design principles and launching a YouTube channel featuring in-depth coding tutorials, architecture deep-dives, and industry insights.
+- 🌱 Expanding Horizons: Currently mastering Java, Python, while exploring cloud-native architectures and microservices patterns.
+- 🛠️ Tech Philosophy: Believer in clean code, performance optimization, and building solutions that scale gracefully from MVP to enterprise-level applications.
+- 📫 Let's Connect: Always excited to discuss tech, collaborate on interesting projects, or share knowledge. Reach out at hi@amirr.net.
 
-I thrive on solving complex problems and delivering solutions that exceed expectations. Check out my repositories for a glimpse into my projects and coding journey!
+I thrive on transforming complex business challenges into elegant technical solutions that drive real impact. Dive into my repositories to explore my latest projects, experiments, and contributions to the open-source community!
